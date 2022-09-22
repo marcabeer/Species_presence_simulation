@@ -1,4 +1,4 @@
-#Simulation of species presence and presence-absence data for ecological niche modeling (ENM), also known as species distribution modeling (SDM).
+<h1>Simulation of species presence and presence-absence data for ecological niche modeling (ENM), also known as species distribution modeling (SDM).</h1>
 
  Ecological niche models (ENM) or species distribution models (SDM) attempt to predict the spatiotemporal distribution of species on the basis of environmental data and species observation records In addition to simply delineating the distribution of a species, ENMs often output an index representing either local relative suitability of habitat (using presence-only observations) or local probabilities of species presence (using presence-absence observations). The distinction between presence-only and presence-absence species observation records is important because it impacts options for analysis and as described above, downstream interpretation of results.
 
